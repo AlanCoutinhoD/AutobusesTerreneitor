@@ -1,0 +1,17 @@
+.contenedorUpBus{
+    width: 25%;
+    height: 30%;
+    border: 2px blue solid;
+    
+   margin-top: 5%;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    text-align: center;
+
+
+}
+#root {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
